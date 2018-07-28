@@ -7,6 +7,12 @@ The MATLAB scripts in this repository is an implementation of the following pape
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
+Open the Terminal (cmd in case of Windows), navigate to your desired folder and type in the following command to download the repository: 
+
+``` 
+git clone https://github.com/cyberdrk/Color 
+``` 
+
 ### Prerequisites
 
 The code can be run on MATLAB. Please make sure you have at least MATLAB 2017a running on your machine. 
@@ -24,7 +30,7 @@ Math Toolbox
 
 ### Necessary Steps before we begin 
 
-Download the repository along with all the dependencies. 
+Download the repository along with all the dependencies.  
 
 Once you've started MATLAB, 
 
