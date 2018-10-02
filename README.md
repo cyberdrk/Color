@@ -1,6 +1,8 @@
 # Color Gamut Mapping 
 
-The MATLAB scripts in this repository is an implementation of the following paper: "A Color Mapping Scheme for Backward Compatible UHD Video Distribution" published in 2017 () 
+The MATLAB scripts in this repository is an implementation of the following paper: ["A Color Mapping Scheme for Backward Compatible UHD Video Distribution"](https://ieeexplore.ieee.org/document/7996741) published in 2017 IEEE International Conference on Communications (Maryam Azimi ; Timothée-Florian Bronner ; Panos Nasiopoulos ; Mahsa T. Pourazad ) 
+
+PDF: http://www.ece.ubc.ca/~maryama/2017_ICC_Azimi.pdf 
  
 
 ## Getting Started
